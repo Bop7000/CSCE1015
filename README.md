@@ -1,5 +1,6 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
+## EUID
 ts1519
-echo '## EUID' >> README.md
-echo $ts1519 >> README.md
+## Favorite Linux Command
+mkdir
